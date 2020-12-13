@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virlan_Diana_Lab10", "Virlan_Diana_Lab10.csproj", "{8F94B4ED-939C-4FDE-ABA0-F2107F9D0D80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gRPCClient", "..\gRPCClient\gRPCClient.csproj", "{FE484B9C-06AB-47A7-95CB-3F252A72A93A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F94B4ED-939C-4FDE-ABA0-F2107F9D0D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F94B4ED-939C-4FDE-ABA0-F2107F9D0D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F94B4ED-939C-4FDE-ABA0-F2107F9D0D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F94B4ED-939C-4FDE-ABA0-F2107F9D0D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE484B9C-06AB-47A7-95CB-3F252A72A93A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE484B9C-06AB-47A7-95CB-3F252A72A93A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE484B9C-06AB-47A7-95CB-3F252A72A93A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE484B9C-06AB-47A7-95CB-3F252A72A93A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8A92DA7-AB7D-456B-9768-74286197CB87}
+	EndGlobalSection
+EndGlobal
